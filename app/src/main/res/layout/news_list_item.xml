@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingEnd="@dimen/paddingEndList"
+    android:paddingLeft="@dimen/paddingLeftList"
+    android:paddingRight="@dimen/paddingRightList"
+    android:paddingStart="@dimen/paddingStartList">
+
+    <TextView
+        android:id="@+id/webTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/marginTopTitle"
+        android:textColor="@color/textColorTitle"
+        android:textSize="@dimen/textSizeTitle"
+        android:textStyle="bold"
+        tools:text="ANZ bank to face criminal cartel charges" />
+
+    <TextView
+        android:id="@+id/sectionName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/textColorSection"
+        android:textSize="@dimen/textSizeSection"
+        tools:text="Politics" />
+
+    <TextView
+        android:id="@+id/authorName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/marginTopAuthor"
+        android:textColor="@color/textColorAuthor"
+        android:textSize="@dimen/textSizeAuthor"
+        tools:text="Hunter Felt" />
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/textColorDate"
+        android:textSize="@dimen/textSizeDate"
+        tools:text="May 5, 2000" />
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/marginBottomTime"
+        android:textColor="@color/textColorTime"
+        android:textSize="@dimen/textSizeTime"
+        tools:text="7:45 PM" />
+
+</LinearLayout>

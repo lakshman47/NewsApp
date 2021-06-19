@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dividerHeight">1dp</dimen>
+    <dimen name="textSizeTime">12sp</dimen>
+    <dimen name="marginBottomTime">10dp</dimen>
+    <dimen name="textSizeDate">12sp</dimen>
+    <dimen name="textSizeAuthor">12sp</dimen>
+    <dimen name="marginTopAuthor">10dp</dimen>
+    <dimen name="textSizeSection">16sp</dimen>
+    <dimen name="textSizeTitle">16sp</dimen>
+    <dimen name="marginTopTitle">10dp</dimen>
+    <dimen name="paddingEndList">16dp</dimen>
+    <dimen name="paddingLeftList">16dp</dimen>
+    <dimen name="paddingRightList">16dp</dimen>
+    <dimen name="paddingStartList">16dp</dimen>
+</resources>

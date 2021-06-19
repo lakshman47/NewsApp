@@ -1,0 +1,58 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">News App</string>
+
+    <!-- Text to display in the list when there are no news [CHAR LIMIT=NONE] -->
+    <string name="there_are_no_news_stories_back_later_and_check_again">There are no new stories.\nBack later and check again.</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">Settings</string>
+
+    <!-- Strings For Section Preferences -->
+    <string name="settings_section_label">Section</string>
+    <string name="settings_section_key" translatable="false">section</string>
+    <string name="settings_section_default" translatable="false">technology</string>
+
+    <!-- Label for Science Section [CHAR LIMIT=20] -->
+    <string name="settings_science_label">Science</string>
+    <string name="settings_science_value" translatable="false">science</string>
+
+    <!-- Label for Cities Section [CHAR LIMIT=20] -->
+    <string name="settings_cities_label">Cities</string>
+    <string name="settings_cities_value" translatable="false">cities</string>
+
+    <!-- Label for Football Section [CHAR LIMIT=20] -->
+    <string name="settings_football_label">Football</string>
+    <string name="settings_football_value" translatable="false">football</string>
+
+    <!-- Label for Technology Section [CHAR LIMIT=20] -->
+    <string name="settings_tech_label">Technology</string>
+    <string name="settings_tech_value" translatable="false">technology</string>
+
+    <!-- Label for Business Section [CHAR LIMIT=20] -->
+    <string name="settings_business_label">Business</string>
+    <string name="settings_business_value" translatable="false">business</string>
+
+    <!-- Label for Environment Section [CHAR LIMIT=20] -->
+    <string name="settings_environment_label">Environment</string>
+    <string name="settings_environment_value" translatable="false">environment</string>
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">newest</string>
+
+    <!-- Label for Order-by Newest News [CHAR LIMIT=20] -->
+    <string name="settings_order_by_newest_news_label">Newest News</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <!-- Label for Order-by Oldest News [CHAR LIMIT=20] -->
+    <string name="settings_order_by_oldest_news_label">Oldest News</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+</resources>
